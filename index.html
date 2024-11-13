@@ -5,9 +5,42 @@
     <link rel="icon" type="image/svg+xml" href="./src/assets/fitness1.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>FitFlex</title>
+    <style>
+      /* CSS for footer-icons */
+      .footer-icons {
+        display: flex; /* Aligns the items horizontally */
+        justify-content: space-between; /* Distributes the items evenly with space between them */
+        align-items: center; /* Vertically aligns the items to the center */
+        width: 100%; /* Ensure the footer takes the full width */
+        padding: 10px 20px; /* Optional: Add some padding for spacing */
+        background-color: #222; /* Optional: Set a background color */
+        color: white; /* Text color */
+      }
+
+      /* Optional: Styling for individual icons or links */
+      .footer-icons a {
+        color: white;
+        text-decoration: none;
+        font-size: 18px;
+      }
+
+      .footer-icons a:hover {
+        color: #FBC638; /* Change color on hover */
+      }
+    </style>
   </head>
   <body>
     <div id="root"></div>
+    
+    <!-- Footer Section -->
+    <footer>
+      <div class="footer-icons">
+        <a href="https://github.com" target="_blank">GitHub</a>
+        <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+        <a href="https://twitter.com" target="_blank">Twitter</a>
+      </div>
+    </footer>
+    
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
