@@ -17,20 +17,20 @@
         </thead>
         <tbody align="center">
             <tr>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/J-B-Mugundh/fit-freak?style=flat&logo=github"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/J-B-Mugundh/fit-freak?style=flat&logo=github"/></td>
-                <td><img alt="Issues" src="https://img.shields.io/github/issues/J-B-Mugundh/fit-freak?style=flat&logo=github"/></td>
-                <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/J-B-Mugundh/fit-freak?style=flat&logo=github"/></td>
-                <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/J-B-Mugundh/fit-freak?style=flat&color=critical&logo=github"/></td>
-                <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/J-B-Mugundh/fit-freak?style=flat&color=critical&logo=github"/></td>
-                <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/J-B-Mugundh/fit-freak?color=2b9348"/></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/gdgmit/fit-freak?style=flat&logo=github"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/gdgmit/fit-freak?style=flat&logo=github"/></td>
+                <td><img alt="Issues" src="https://img.shields.io/github/issues/gdgmit/fit-freak?style=flat&logo=github"/></td>
+                <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/gdgmit/fit-freak?style=flat&logo=github"/></td>
+                <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/gdgmit/fit-freak?style=flat&color=critical&logo=github"/></td>
+                <td><img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gdgmit/fit-freak?style=flat&color=critical&logo=github"/></td>
+                <td><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/gdgmit/fit-freak?color=2b9348"/></td>
             </tr>
         </tbody>
     </table>
     
 <br>
   <!-- Repository link -->
-    <a href="https://github.com/J-B-Mugundh/fit-freak" target="_blank">
+    <a href="https://github.com/gdgmit/fit-freak" target="_blank">
         <strong>Check out the Fit-Freak repository on GitHub</strong>
     </a>
 </div>
@@ -65,19 +65,19 @@
 
 <h2 id="what-can-you-contribute">What can you contribute?</h2>
 
-- Find All the details in [**CONTRIBUTING.md**](https://github.com/J-B-Mugundh/fit-freak/blob/main/CONTRIBUTING.md) before contributing
-- Please follow guidelines in [**Code_of_Conduct.md**](https://github.com/J-B-Mugundh/fit-freak/blob/main/CODE_OF_CONDUCT.md)
+- Find All the details in [**CONTRIBUTING.md**](https://github.com/gdgmit/fit-freak/blob/main/CONTRIBUTING.md) before contributing
+- Please follow guidelines in [**Code_of_Conduct.md**](https://github.com/gdgmit/fit-freak/blob/main/CODE_OF_CONDUCT.md)
 
 <h2 id="how-to-contribute">How to contribute?</h2>
 
 - Drop a Star in this repo
-- Take a look at the existing [Issues](https://github.com/J-B-Mugundh/fit-freak/issues).
+- Take a look at the existing [Issues](https://github.com/gdgmit/fit-freak/issues).
 - Fork the Repo create a branch for any issue that you are working on and commit your work.
 - At first raise an issue in which you want to work
 - **Please do not make more than 2 issues at a time , Once your PR have been merged only then go for the next issue**
 - **Then when you are get assigned only then work on that issue & make a PR**
 - Please try to make a separate branch in your fork in case of PR
-- Create a [**Pull Request**](https://github.com/J-B-Mugundh/fit-freak/pulls), which will be promptly reviewed and given suggestions for improvements by the community.
+- Create a [**Pull Request**](https://github.com/gdgmit/fit-freak/pulls), which will be promptly reviewed and given suggestions for improvements by the community.
 - **REMINDER: Commit inside **the `Projects`** Folder**
 - Find the already Existing Projects in the `Projects` Folder
 - Add screenshots or video prototypes to your Pull Request to help us understand the effects of the changes that are included in your commits.
@@ -93,7 +93,7 @@
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/J-B-Mugundh/fit-freak.git
+   git clone https://github.com/gdgmit/fit-freak.git
    ```
 2. **Navigate to the project directory**:
     ```bash
@@ -115,7 +115,7 @@ Move detailed steps to a new `CONTRIBUTING.md` file and link to it:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/J-B-Mugundh/fit-freak.git
+   git clone https://github.com/gdgmit/fit-freak.git
    ```
 2. **Navigate to the project directory**:
     ```bash
@@ -139,7 +139,7 @@ Move detailed steps to a new `CONTRIBUTING.md` file and link to it:
 <h2 id="how-to-make-a-pull-request">How to make a Pull Request?</h2>
 
 
-**1.** Start by forking the [**FITFLEX**](https://github.com/J-B-Mugundh/fit-freak) repository. Click on the <a href="https://github.com/J-B-Mugundh/fit-freak/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by forking the [**FITFLEX**](https://github.com/gdgmit/fit-freak) repository. Click on the <a href="https://github.com/gdgmit/fit-freak/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your forked repository:
 
@@ -156,7 +156,7 @@ cd FitFlex
 **4.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/J-B-Mugundh/fit-freak
+git remote add upstream https://github.com/gdgmit/fit-freak
 ```
 
 **5.** Create a new branch:
@@ -223,13 +223,13 @@ git push origin YourBranchName
 
 <div align='left'>
 
-[![Stargazers repo roster for J-B-Mugundh/fit-freak](https://reporoster.com/stars/J-B-Mugundh/fit-freak)](https://github.com/J-B-Mugundh/fit-freak/stargazers)
+[![Stargazers repo roster for gdgmit/fit-freak](https://reporoster.com/stars/gdgmit/fit-freak)](https://github.com/gdgmit/fit-freak/stargazers)
 
 </div>
 
 ## Forkers ❤️
 
-[![Forkers repo roster for J-B-Mugundh/fit-freak](https://reporoster.com/forks/J-B-Mugundh/fit-freak)](https://github.com/J-B-Mugundh/fit-freak/network/members)
+[![Forkers repo roster for gdgmit/fit-freak](https://reporoster.com/forks/gdgmit/fit-freak)](https://github.com/gdgmit/fit-freak/network/members)
  
 # License
 
